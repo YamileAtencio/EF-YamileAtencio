@@ -1,0 +1,3 @@
+insert into hospedajes values ('Hacienda'),('Marriott')
+insert into turista values ('Rocio Ramos', '95642569','Patriotismo 638'), ('Renzo Vasquez','54259856','Barcelona')
+insert into reservas('$150 por noche'),('$40 por noche')
